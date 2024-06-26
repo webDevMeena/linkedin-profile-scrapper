@@ -13,7 +13,7 @@ This is a  Chrome extension which scrapes LinkedIn profile information and displ
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/linkedin-profile-scraper.git
+    git clone https://github.com/webDevMeena/linkedin-profile-scraper.git
     cd linkedin-profile-scraper
     ```
 
